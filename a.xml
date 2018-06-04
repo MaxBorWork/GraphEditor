@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><graph name="a"><vertices><vertex ID="1" name="" x="464" y="182"/><vertex ID="2" name="" x="668" y="189"/><vertex ID="3" name="" x="516" y="336"/></vertices><arcs><arc ID="1" ingoing="2" isOriented="true" outgoing="1" weight="1"/><arc ID="2" ingoing="3" isOriented="true" outgoing="2" weight="1"/></arcs></graph>
